@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NathesC
-- 👀 I’m interested in coputers in things (Arduino/Pi), 
+- 👀 I’m interested in computers in things (Arduino/Pi), 
 - 🌱 I’m currently learning MSc Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
